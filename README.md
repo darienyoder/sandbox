@@ -21,7 +21,7 @@ Particles will exchange heat with surrounding particles, and can change state de
 |----------|----------------------|--------------:|-----------------------|--------------:|--------------------|
 | Water    | Ice (Light Blue)     |             0 | Water (Dark Blue)     |           100 | Steam (Light Gray) |
 | Sand     | Sand (Yellow)        |          1000 | Lava (Orange)         |          2500 | Smoke (Dark Gray)  |
-| Stone    | Stone (Dark Gray)    |           100 | Lava (Orange)         |          2500 | Smoke (Dark Gray)  |
+| Stone    | Stone (Dark Gray)    |          1000 | Lava (Orange)         |          2500 | Smoke (Dark Gray)  |
 | Wood     | Wood (Brown)         |           200 | *                     |           200 | Smoke (Dark Gray)  |
 
 \* The melting point of wood is the same as its boiling point to give the appearance of smoke coming off the wood as it burns.
